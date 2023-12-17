@@ -1,4 +1,4 @@
-package hello.advanced.treace.helloTrace;
+package hello.advanced.trace.helloTrace;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
